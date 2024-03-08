@@ -1,5 +1,5 @@
 # project_1
-Sentiment Analysis 
+Sentiment Analysis - Amazon Food Review Dataset 
 
 What is Sentiment Analysis ?
 Sentiment analysis is a technique through which you can analyze a piece of text to determine the sentiment behind it. It combines machine learning and natural language processing (NLP) to achieve this.
